@@ -7,7 +7,7 @@ function Header() {
       <div className="mainHeader bg-white px-[20px] py-[10px] shadow-sm">
         <div className="flex items-center">
           <div className="grow">
-            <div className="flex w-[20%] items-center">
+            <div className="flex w-[100%] items-center">
               <div className="w-10 grow-0">
                 <div className="bg-[#4FA3FE] rounded-[50px] w-[30px] h-[30px] flex items-center justify-center">
                   <FontAwesomeIcon icon={faUser} className="fa-fw text-white" />
